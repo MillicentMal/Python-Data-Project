@@ -7,7 +7,8 @@ The project has been deployed on Streamlit but can be run by:
 1. running pip install -r requirements.txt
 2. streamlit run app.py
 
-#Files
+# Files
+
 The graph.py is where the natural language processing is done on the pdf files to extract the different topics or courses then store them in csv files
 
 the app.py contains all the main code for building and displaying the graph
